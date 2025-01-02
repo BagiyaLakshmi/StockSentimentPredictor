@@ -33,8 +33,8 @@ This project analyzes Twitter data related to specific stocks or the stock marke
   - All-MiniLM-L6-v2: Provides sentence embeddings and uses a vector database for efficient tweet retrieval and sentiment analysis.
 
 ## Results
-![Phase1](result1.png)
-![Phase2](result2.png)
+![Phase1&2](result.png)
+
 
 ![Phase3](result3.png)
 
